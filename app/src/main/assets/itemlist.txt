@@ -1,0 +1,18 @@
+ABC coffee:19.99:1
+XYZ coffee:15.99:1
+potato chip:5.99:1
+red cow:13.99:1
+green tea:9.99:1
+pencil:1.99:3
+pen:2.99:3
+notebook:4.99:3
+ice cream:9.99:1
+carbonated water:11.99:1
+soda drink:7.99:1
+orange:5.99:2
+orange juice:10.99:1
+apple:6.99:3
+apple juice:9.99:2
+pineapple:30.99:2
+mouse:39.99:3
+keyboard:59.99:3
